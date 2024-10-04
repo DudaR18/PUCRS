@@ -1,0 +1,1 @@
+Esse repositório contém atividades, projetos e trabalhos realizados durante meu período como aluna de Ciência da Computação da Pontifícia Universidade Católica do Rio Grande do Sul no ano de 2024 (3° e 4° semestre).
